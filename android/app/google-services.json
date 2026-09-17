@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246865210928",
+    "project_id": "musicapp-mytune",
+    "storage_bucket": "musicapp-mytune.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246865210928:android:fbd71d35ba68fa7e7987f5",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6D7kuHwVXWtc2_1jL4P57DCm8w8r1gVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
